@@ -1,2 +1,2 @@
 # springboot-jaspereport
-Demo sprng boot with jasper report
+Demo spring boot with jasper report
