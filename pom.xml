@@ -6,7 +6,7 @@
     <groupId>com.ponleu</groupId>
     <artifactId>springboot-jasper-report</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>springboot-jasper-report</name>
     <description>Demo project for Spring Boot with Jasepr Report</description>
